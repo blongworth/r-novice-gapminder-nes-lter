@@ -6,6 +6,8 @@
 
 # R for Reproducible Scientific Analysis
 
+This is a fork that replaces gapminder with the [NES LTER][nes-lter] data.
+
 An introduction to R for non-programmers using the [Gapminder][gapminder] data.
 Please see [https://swcarpentry.github.io/r-novice-gapminder](https://swcarpentry.github.io/r-novice-gapminder) for a rendered version of this material,
 [the lesson template documentation][lesson-example]
@@ -49,6 +51,3 @@ Previous Maintainers:
 [zimmerman_naupaka]: https://carpentries.org/maintainers/#naupaka
 [mawdsley_david]: https://carpentries.org/maintainers/#mawds
 [oliver_jeffrey]: https://carpentries.org/maintainers/#jcoliver
-
-
-
